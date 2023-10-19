@@ -25,3 +25,29 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+
+Paswword cracking
+//techniques
+Default, Weak, Leaked, Combined , and Username Wordlists
+Keyspace Technique and CUPP
+Dictionary and Brute-Force (hash)
+Rule based
+
+
+// Test
+
+default pass - 
+
+https://cirt.net/passwords
+https://default-password.info/
+https://datarecovery.com/rd/default-passwords/
+https://wiki.skullsecurity.org/index.php?title=Passwords
+
+//leaked DB - companies
+
+https://github.com/danielmiessler/SecLists/tree/master/Passwords/Leaked-Databases
+
+//kali linux tools
+https://phoenixnap.com/kb/kali-linux-tools
