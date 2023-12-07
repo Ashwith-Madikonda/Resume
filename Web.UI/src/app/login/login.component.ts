@@ -22,7 +22,6 @@ export class LoginComponent {
   getData() {
     let a= 10;
      this._loginService.getData().subscribe((res) => {
-      debugger;
       this.data = res;
      } , (err) => {
       console.log(err);
