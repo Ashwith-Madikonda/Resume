@@ -11,7 +11,6 @@ export class LoginService {
     constructor(private _http: HttpClient) {}
 
     getData(): Observable<any> {
-        debugger;
         return this._http.get(this.apiUrl+'/WeatherForecast');
     }
 }
